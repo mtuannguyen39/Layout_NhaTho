@@ -130,6 +130,26 @@ button:hover {
     transition: all 500ms cubic-bezier(0, 0.110, 0.35, 2);
 }
 
+/* SEARCH BOX 2 */
+.input {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+
+.search {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
 
 /* BODY */
 
